@@ -1,8 +1,3 @@
-# Lens_Edge_Extend-v2.0
-LENS EDGE EXTEND v2.0  Nuke gizmo by Nitin Kashyap  ==============================================================  Compatible Nuke versions : 10 or later (Nuke 10 -> 16)  Compatibility : Linux, Mac, Windows  Python : 2.7 / 3.7 / 3.9 / 3.10 / 3.11  Menu location : NK_Tools > Lens_Edge_Extend
-
-
-
 # 🔍 Lens Edge Extend
 
 **A Nuke gizmo that extends and distorts the edges of your plate through a lens matte, with optional chromatic separation.**
@@ -208,4 +203,11 @@ Released under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
 ---
 
-## 👤 Author   **Nitin Kashyap**
+## 👤 Author
+
+**Nitin Kashyap**
+
+- GitHub: [@your-username](https://github.com/your-username)
+- Contact: your@email.com
+
+If this tool helped you, please ⭐ the repository.
