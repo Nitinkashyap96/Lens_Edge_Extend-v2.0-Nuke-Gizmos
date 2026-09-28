@@ -1,4 +1,4 @@
-# 🔍 Lens Edge Extend
+#  Lens Edge Extend
 
 **A Nuke gizmo that extends and distorts the edges of your plate through a lens matte, with optional chromatic separation.**
 
